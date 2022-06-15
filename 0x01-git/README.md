@@ -1,1 +1,1 @@
-Just updated my first readme file with BS
+Just updated my first readme with conflicts
